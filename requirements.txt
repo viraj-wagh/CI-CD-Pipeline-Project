@@ -1,11 +1,3 @@
 flask
 
-6.start_container.sh
-#!/bin/bash
-set -e
 
-# Pull the Docker image from Docker Hub
-echo
-
-# Run the Docker image as a container
-echo
