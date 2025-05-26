@@ -1,4 +1,3 @@
-.start_container.sh
 #!/bin/bash
 set -e
 
